@@ -1,4 +1,6 @@
-package com.example.demo;
+package com.example.demo.entities;
+
+import com.example.demo.enums.Rol;
 
 public class UsuarioEntity {
     private long idUsuario;
@@ -6,4 +8,5 @@ public class UsuarioEntity {
     private String apellido;
     private String email;
     private int edad;
+    private Rol rol;
 }
