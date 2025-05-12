@@ -1,4 +1,4 @@
-package com.example.demo.entities;
+package entities;
 
 public class LibroEntity {
     private long idLibro;

@@ -1,6 +1,6 @@
-package com.example.demo.entities;
+package entities;
 
-import com.example.demo.enums.Rol;
+import enums.Rol;
 
 public class UsuarioEntity {
     private long idUsuario;
